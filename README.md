@@ -1,6 +1,6 @@
 # [Betty Blocks](https://www.bettyblocks.com/)
 
-Betty Blocks platform.
+[No-code development platform (NCDP)](https://en.wikipedia.org/wiki/No-code_development_platform) Betty Blocks.
 
 ## front end [React](https://reactjs.org/) with [Redux](https://redux.js.org/)
 
