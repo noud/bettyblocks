@@ -17,6 +17,6 @@ on top of:
 - [Open Telecom Platform (OTP)](https://en.wikipedia.org/wiki/Open_Telecom_Platform)
 - [Erlang](https://erlang.org)
 
-## used by
+## usecase
 
 - [Nafite](https://nafite.com/)
